@@ -1,0 +1,62 @@
+ORDER TRACKING
+
+Customers can track their order by logging into their account and opening the My Orders section.
+
+To track an order, select the required order and click Track Order.
+
+Tracking information may take up to 24 hours to become available after shipment confirmation.
+
+
+ORDER CANCELLATION
+
+Customers can cancel an order before it has been shipped.
+
+To cancel an order, log in to the account and open My Orders.
+
+Select the order and choose Cancel Order.
+
+Once an order has been shipped, cancellation may not be possible.
+
+
+REFUND POLICY
+
+Refunds are processed after the returned product has been received and inspected.
+
+The refund may take several business days to appear in the original payment method.
+
+
+RETURN POLICY
+
+Customers can request returns for eligible products within the specified return period.
+
+The product should be unused and returned in acceptable condition.
+
+Customers should open the My Orders section and select the Return option for the applicable order.
+
+
+PAYMENT METHODS
+
+Customers can use supported debit cards, credit cards, and net banking.
+
+Available payment methods may depend on the customer's location.
+
+
+DELIVERY
+
+Delivery time depends on the customer's location and selected delivery option.
+
+Customers can view the estimated delivery date during checkout and in the order details.
+
+
+ACCOUNT SUPPORT
+
+Customers can update their account information from the account settings page.
+
+If a customer cannot access their account, they should use the password reset option.
+
+
+DAMAGED PRODUCT
+
+Customers who receive a damaged product should contact customer support and provide the order details.
+
+The support team may request photographs or additional information to process the complaint.
